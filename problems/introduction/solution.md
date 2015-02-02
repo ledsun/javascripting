@@ -1,21 +1,21 @@
 ---
 
-# YOU DID IT!
+# やったね！
 
-Anything between the parentheses of `console.log()` are printed to the terminal.
+`console.log()`のカッコの間に指定したものを、ターミナルに表示します。
 
-So this: 
+以下のようにです。
 
 ```js
 console.log('hello');
 ```
 
-prints `hello` to the terminal.
+ターミナルに`hello`が表示します。
 
-Currently we are printing a **string** of characters to the terminal: `hello`.
+これで、私たちは **文字列** `hello` をターミナルに表示できるようになりました。
 
-In the next challenge we focus on learning about **variables**.
+次の課題では**変数**を学びます。
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで`javascripting`コマンドを実行します。次の課題を選択しましょう。
 
 ---
