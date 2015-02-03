@@ -1,11 +1,11 @@
 ---
 
-# YOU CREATED A VARIABLE!
+# 変数が作れました！
 
-Nice work. 
+素晴らしい仕事です。
 
-In the next challenge we will look at strings more closely.
+次の課題では**文字列**をもっと詳しく見てみましょう。
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで`javascripting`コマンドを実行します。次の課題を選択しましょう。
 
 ---

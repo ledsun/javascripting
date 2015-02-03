@@ -2,33 +2,35 @@
 
 # VARIABLES
 
-A variable is a name that can reference a specific value. Variables are declared using `var` followed by the variable's name.
+変数は特定の値を示す名前です。`var`を使って変数を宣言します。`var`につづけて変数の名前を書きます。
 
-Here's an example:
+例:
 
 ```js
 var example;
 ```
 
-The above variable is **declared**, but it isn't defined (it does not yet reference a specific value).
+上の例は変数を**宣言**しています。しかし、定義していません（この変数はまだなんの値も示しません）。
 
-Here's an example of defining a variable, making it reference a specific value:
+次の例は変数を定義します。変数は特定の値を示します。
 
 ```js
 var example = 'some string';
 ```
 
-Note that it is **declared** using `var` and uses the equals sign to **define** the value that it references. This is colloquially known as "Making a variable equal a value".
+`var`を使って**宣言**します。同時に等号を使って、変数が示す値を**定義**します。
+これを「変数に値を代入する」と言います。
 
-Create a file named `variables.js`.
+`variables.js`ファイルを作りましょう。
 
-In that file declare a variable named `example`.
+ファイルの中で`example`変数を宣言します。
 
-**Make the variable `example` equal to the value `'some string'`.**
+** 変数`example`に値`'some string'`を代入します。**
 
-Then use `console.log()` to print the `example` variable to the console.
+そして`console.log()`を使って、変数`example`をコンソールに表示します。
 
-Check to see if your program is correct by running this command:
+次のコマンドを実行して、あなたのプログラムが正しく動くか確認しましょう。
 
 `javascripting verify variables.js`
+
 ---
