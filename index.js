@@ -2,7 +2,7 @@
 
 var path = require('path');
 var adventure = require('adventure');
-var jsing = adventure('javascripting');
+var jsing = adventure('javascripting-jp');
 
 var problems = require('./menu.json');
 
