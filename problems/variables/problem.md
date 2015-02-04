@@ -31,6 +31,6 @@ var example = 'some string';
 
 次のコマンドを実行して、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify variables.js`
+`javascripting-jp verify variables.js`
 
 ---

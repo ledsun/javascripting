@@ -26,6 +26,6 @@ var someString = 'this is a string';
 
 次のコマンドを実行して、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify string.js`
+`javascripting-jp verify string.js`
 
 ---

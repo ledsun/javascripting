@@ -1,13 +1,13 @@
 {
   "name": "javascripting-jp",
   "description": "ターミナルの冒険でJavaScriptを学びましょう。",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": "git://github.com/ledsun/javascripting.git"
   },
   "author": "ledsun",
   "bin": {
-    "javascripting": "index.js"
+    "javascripting-jp": "index.js"
   },
   "preferGlobal": true,
   "dependencies": {

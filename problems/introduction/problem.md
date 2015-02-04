@@ -3,13 +3,13 @@
 
 このワークショップ用のディレクトリを作ってみましょう。
 
-次のコマンドを実行して、`javascripting`ディレクトリを作ります。
+次のコマンドを実行して、`javascripting-jp`ディレクトリを作ります。
 
-`mkdir javascripting`
+`mkdir javascripting-jp`
 
-`javascripting`フォルダに移動しましょう。
+`javascripting-jp`フォルダに移動しましょう。
 
-`cd javascripting`
+`cd javascripting-jp`
 
 次のように`introduction.js`ファイルを作成します。
 
@@ -23,7 +23,7 @@ console.log('hello');
 
 ファイルを保存します。次のコマンドを実行して、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify introduction.js`
+`javascripting-jp verify introduction.js`
 
 ---  
 
