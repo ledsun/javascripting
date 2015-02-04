@@ -2,9 +2,9 @@
 
 # STRINGS
 
-A **string** is any value surrounded by quotes.
+**文字列** は引用符でくくられた値です。
 
-It can be single or double quotes:
+一重引用符と二重引用符のどちらでも大丈夫です。例えば...
 
 ```js
 'this is a string'
@@ -12,20 +12,20 @@ It can be single or double quotes:
 "this is also a string"
 ```
 
-Try to stay consistent. In this workshop we'll only use single quotes.
+どちらか一方を使って一貫性を保つようにしてください。 このワークショップでは一重引用符だけを使いましょう。
 
-For this challenge, create a file named `strings.js`.
+この課題では、`strings.js`ファイルを作成します。
 
-In that file create a variable named `someString` like this:
+そのファイルの中で、次のような変数`someString`を作りましょう。
 
 ```js
 var someString = 'this is a string';
 ```
 
-Use `console.log` to print the variable **someString** to the terminal.
+`console.log` を使って変数　**someStirng**　をターミナルに表示しましょう。
 
-Check to see if your program is correct by running this command:
+次のコマンドを実行して、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify strings.js`
+`javascripting verify string.js`
 
 ---

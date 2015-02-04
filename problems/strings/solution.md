@@ -1,11 +1,11 @@
 ---
 
-# SUCCESS.
+# パチパチ！
 
-You are getting used to this string stuff!
+文字列の使い方に慣れてきましたね。
 
-In the next challenges we will cover how to manipulate strings.
+次の課題では文字列の編集を扱います。
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで`javascripting`コマンドを実行します。次の課題を選択しましょう。
 
 ---
