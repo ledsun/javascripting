@@ -1,11 +1,11 @@
 {
-  "name": "javascripting",
-  "description": "Learn JavaScript by adventuring around in the terminal.",
-  "version": "1.10.3",
+  "name": "javascripting-jp",
+  "description": "ターミナルの冒険でJavaScriptを学びましょう。",
+  "version": "0.0.1",
   "repository": {
-    "url": "git://github.com/sethvincent/javascripting.git"
+    "url": "git://github.com/ledsun/javascripting.git"
   },
-  "author": "sethvincent",
+  "author": "ledsun",
   "bin": {
     "javascripting": "index.js"
   },
