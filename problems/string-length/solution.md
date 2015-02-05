@@ -1,9 +1,9 @@
 ---
 
-# WIN: 14 CHARACTERS
+# WIN: 14 文字
 
-You got it! The string `example string` has 14 characters.
+やりました！ 文字列 `example string` は14文字です。
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで`javascripting-jp`コマンドを実行します。次の課題を選択しましょう。
 
 ---

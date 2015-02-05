@@ -2,29 +2,29 @@
 
 # STRING LENGTH
 
-You will often need to know how many characters are in a string.
+ある文字列の文字数を知りたいことがあります。
 
-For this you will use the `.length` property. Here's an example:
+そういう時は `.length` プロパティを使います。たとえば...
 
 ```js
 var example = 'example string';
 example.length
 ```
 
-Make sure there is a period between `example` and `length`.
+`example` と `length` の間にピリオドが必要です。気をつけましょう。
 
-The above code will return a **number** for the total number of characters in the string.
+上のコードは文字列に含まれる文字の**数**を返します。
 
-Create a file named string-length.js.
+string-length.jsファイルを作りましょう。
 
-In that file, create a variable named `example`.
+ファイルの中で、変数 `example` を作りましょう。
 
-**Assign the string `'example string'` to the variable `example`.**
+変数 `example` に文字列 `'example string'` を代入しましょう。
 
-Use `console.log` to print the **length** of the string to the terminal.
+`console.log` を使い、文字列の **length** をターミナルに表示しましょう。
 
-**Check to see if your program is correct by running this command:**
+次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify string-length.js`
+`javascripting-jp verify string-length.js`
 
 ---
