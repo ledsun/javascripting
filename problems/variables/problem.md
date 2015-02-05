@@ -22,13 +22,15 @@ var example = 'some string';
 
 これを「変数に値を代入する」と言います。
 
-`variables.js`ファイルを作りましょう。
+## やってみよう
 
-ファイルの中で`example`変数を宣言します。
+`variables.js` ファイルを作りましょう。
 
-**変数**`example`に値`'some string'`を代入します。
+ファイルの中で `example` 変数を宣言します。
 
-そして`console.log()`を使い、変数`example`をコンソールに表示します。
+**変数** `example` に値 `'some string'` を代入します。
+
+そして `console.log()` を使い、変数 `example` をコンソールに表示します。
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
