@@ -1,20 +1,21 @@
 ---
 
-# NUMBERS
+# 数値
 
-Numbers can be integers, like `2`, `14`, or `4353`, or they can be decimals,  
-also known as floats, like `3.14`, `1.5`, or `100.7893423`.
+JavaScriptの数値は `2` 、`14` 、`4353` のような整数と
 
-## The challenge:
+`3.14` 、 `1.5` 、 `100.7893423` のような少数のどちらともを表すことができます。
 
-Create a file named numbers.js.
+## やってみよう
 
-In that file define a variable named `example` that references the integer `123456789`.
+numbers.jsファイルを作りましょう。
 
-Use `console.log()` to print that number to the terminal.
+ファイルの中で、整数の `123456789` を表す、変数 `example` を定義しましょう。
 
-Check to see if your program is correct by running this command:
+`console.log` を使い、数値をターミナルに表示しましょう。
 
-`javascripting verify numbers.js`
+次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
+
+`javascripting-jp verify numbers.js`
 
 ---

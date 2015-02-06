@@ -2,10 +2,10 @@
 
 # YEAH! NUMBERS!
 
-Cool, you successfully defined a variable as the number `123456789`.
+ひゅー！数値 `123456789` として変数を定義できました。
 
-In the next challenge we will look at manipulating numbers.
+次の課題では、数値の変更を扱います。
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで`javascripting-jp`コマンドを実行します。次の課題を選択しましょう。
 
 ---
