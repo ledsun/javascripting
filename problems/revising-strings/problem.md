@@ -2,11 +2,11 @@
 
 # REVISING STRINGS
 
-You will often need to change the contents of a string. 
+文字列の中身を書き換えたいことがあります。
 
-Strings have built-in functionality that allow you to inspect and manipulate their contents.
+文字列には用意された機能があります。文字列の中身を調べたり、書き換えたりできます。
 
-Here is an example using the `.replace()` method:
+たとえば `.replace()` メソッドの使い方です。...
 
 ```js
 var example = 'this example exists';
@@ -14,22 +14,21 @@ example = example.replace('exists', 'is awesome');
 console.log(example);
 ```
 
-Note that to change the value that the `example` variable references, we need  
-to use the equals sign again, this time with the `example.replace()` method to  
-the right of the equals sign.
+等号を使って `example` 変数を、もう一度変更することに注意してください。
+上の例では等号の右に `example.replace()` を書きました。
 
-## The challenge:
+## やってみよう
 
-Create a file named `revising-strings.js`.
+`revising-strings.js` ファイルを作りましょう。
 
-Define a variable named `pizza` that references this string: `pizza is alright`.
+ファイルの中で、文字列は `pizza is alright`を表す、変数 `pizza` を定義します。
 
-Use the `.replace()` method to change `alright` to `wonderful`.
+`.replace()` メソッドを使って、 `alright` を `wonderful` に変更します。
 
-Use `console.log()` to print the results of the `.replace()` method to the terminal.
+`console.log()` を使い、`.replace()` の結果をコンソールに表示します。
 
-Check to see if your program is correct by running this command:
+次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify revising-strings.js`
+`javascripting-jp verify revising-strings.js`
 
 ---
