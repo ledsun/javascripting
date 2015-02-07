@@ -1,28 +1,28 @@
 ---
-# O-oh, something isn't working.
-# But don't panic!  
+# 残念ながら、何かがうまく動いていません。
+# でも、あわててはいけません。  
 ---
 
-## Check your solution:
+## あなたの解答を確認してみましょう...
 
-`Solution
+`期待する解答
 ===================`
 
 %solution%
 
-`Your Attempt
+`あなたが試した結果
 ===================`
 
 %attempt%
 
-`Difference
+`その違い
 ===================`
 
 %diff%
 
-## Additional troubleshooting:
- * Did you type the name of the file correctly? You can check by running ls `%filename%`, if you see ls: cannot access `%filename%`: No such file or directory then you should create new file / rename existing or change directories to the one with file
- * Make sure you didn't omit parens, since otherwise compiler would not be able to parse it
- * Make sure you didn't do any typos in the string itself
+## その他の解決方法...
+ * ファイル名をタイプミスしていませんか？ ls `%filename%` を実行すれば確認できます。もし ls: cannot access `%filename%`: No such file or directory と表示されたら、新しいファイルを作るか、すでにあるファイルの名前を変えるか、ファイルがあるディレクトリを変更する必要があるかもしれません。
+ * カッコを省略していませんか？省略するとコンパイラはJavaScriptファイル正しく読むことができません。
+ * ファイルの中身にタイプミスはありませんか？
 
-> **Need help?** Ask a question at: github.com/nodeschool/discussions/issues
+> **助けが必要ですか？** github.com/ledsun/javascripting/issues で質問してください

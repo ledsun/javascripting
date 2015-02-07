@@ -1,33 +1,32 @@
 ---
 # INTRODUCTION
 
-To keep things organized, let's create a folder for this workshop. 
+このワークショップ用のディレクトリを作ってみましょう。
 
-Run this command to make a directory called `javascripting` (or something else if you like):
+次のコマンドを実行して、`javascripting`ディレクトリを作ります。
 
 `mkdir javascripting`
 
-Change directory into the `javascripting` folder:
+`javascripting`フォルダに移動しましょう。
 
 `cd javascripting`
 
-Create a file named `introduction.js`:
+次のように`introduction.js`ファイルを作成します。
 
-`touch introduction.js` or if you're on windows, `type NUL > introduction.js`
+`touch introduction.js` もし、Windowsを使っているのであれば `type NUL > introduction.js`
 
-Open the file in your favorite editor, and add this text:
+お好みのエディタでファイルを開きます。次の文を追記しましょう。
 
 ```js
 console.log('hello');
 ```
 
-Save the file, then check to see if your program is correct by running this command:
+ファイルを保存します。次のコマンドを実行して、あなたのプログラムが正しく動くか確認しましょう。
 
 `javascripting verify introduction.js`
 
 ---  
-  
 
-  
-> **Need help?** View the README for this workshop: http://github.com/sethvincent/javascripting
 
+
+> **ヘルプが必要ですか？?** このワークショップのREADMEを読んでください。 : http://github.com/ledsun/javascripting
