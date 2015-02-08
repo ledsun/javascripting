@@ -1,7 +1,7 @@
 ---
 
-# WOOO BANANAS
+# バナナウマー
 
-You did it! You created a function that takes input, processes that input, and provides output.
+やったね! 入力を取り、それを処理し、結果を返す関数が作れました。
 
 ---
