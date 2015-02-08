@@ -1,7 +1,7 @@
 {
   "name": "javascripting-jp",
   "description": "ターミナルの冒険でJavaScriptを学びましょう。",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "repository": {
     "url": "git://github.com/ledsun/javascripting.git"
   },
