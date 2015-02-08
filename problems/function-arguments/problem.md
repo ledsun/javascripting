@@ -1,10 +1,10 @@
 ---
 
-# FUNCTION ARGUMENTS
+# 関数の引数
 
-A function can be declared to receive any number of arguments. Arguments can be from any type. An argument could be a string, a number, an array, an object and even another function.
+関数には引数をいくつでも宣言できます。引数の型はなんでも大丈夫です。文字列、数値、配列、オブジェクト、あるいは関数さえも引数になり得ます。
 
-Here is an example:
+例を挙げましょう...
 
 ```js
 function example (firstArg, secondArg) {
@@ -12,28 +12,28 @@ function example (firstArg, secondArg) {
 }
 ```
 
-We can **call** that function with two arguments like this:
+2つの引数がある関数を**呼び出す**場合は、このようにします。
 
 ```js
 example('hello', 'world');
 ```
 
-The above example will print to the terminal `hello world`.
+上記の例を実行すると、ターミナルに `hello world` と出力されるでしょう。
 
-## The challenge:
+## やってみよう...
 
-Create a file named function-arguments.js.
+function-arguments.jsというファイルを作成してください。
 
-In that file, define a function named `math` that takes three arguments. It's important for you to understand that arguments names are only used to reference them. 
+そのファイルの中に、`math` という3引数の関数を定義します。ここで重要なのは、引数名は引数を参照するためにのみ使われるということです。
 
-Name each argument as you like. 
+引数名は好きなように決めてかまいません。
 
-The function `math` should multiply the second and third arguments, then add the first argument to the outcome of the multiplication and return the value obtained.
+`math`関数は、2番目と3番目の引数を掛けて、その結果に対して1番目の引数を足し、得られた値を返すようにしてください。
 
-After that, inside the parentheses of `console.log()`, call the `math()` function with the number 53 as first argument, the number 61 as second and the number 67 as third argument.
+その後、 `console.log()` の括弧の内側で、 `math()` 関数を呼び、53という数を1番目の引数に、61を2番目に、67を3番目に与えてください。
 
-Check to see if your program is correct by running this command:
+次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify function-arguments.js` 
+`javascripting verify function-arguments.js`
 
 ---

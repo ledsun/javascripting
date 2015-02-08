@@ -1,9 +1,9 @@
 ---
 
-# YOU'RE IN CONTROL OF YOUR ARGUMENTS!
+# もう引数を使えますね
 
-Well done completing the exercise.
+これでこの演習は終わりです。
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで `javascripting` コマンドを実行します。次の課題を選択しましょう。
 
 ---
