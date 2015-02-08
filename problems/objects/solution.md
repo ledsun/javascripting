@@ -1,11 +1,11 @@
 ---
 
-# PIZZA OBJECT IS A GO.
+# ピザオブジェクト準備完了
 
-You successfully created an object!
+オブジェクトを生成できました!
 
-In the next challenge we will focus on accessing object properties.
+次の課題では、オブジェクトのプロパティへのアクセスを見てみます。
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで `javascripting` コマンドを実行します。次の課題を選択しましょう。
 
 ---
