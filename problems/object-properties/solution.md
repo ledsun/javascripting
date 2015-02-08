@@ -1,11 +1,11 @@
 ---
 
-# CORRECT. PIZZA IS THE ONLY FOOD.
+# 出前はピザ、それが俺のジャスティス。
 
-Good job accessing that property.
+よくぞプロパティにアクセスできました。
 
-The next challenge is all about **functions**.
+次の課題では、**関数**のすべてを説明します。
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで `javascripting` コマンドを実行します。次の課題を選択しましょう。
 
 ---

@@ -1,10 +1,11 @@
 ---
 
-# OBJECT PROPERTIES
+# オブジェクトのプロパティ
 
-You can access and manipulate object properties –– the keys and values that an object contains –– using a method very similar to arrays.
+オブジェクトにはプロパティ(オブジェクトに含まれるキーと値)があって、アクセスしたり操作したりできます。
+そのためには、配列と非常に似た方法を使います。
 
-Here's an example using **square brackets**:
+次の例のようにブラケットを使うのです...
 
 ```js
 var example = {
@@ -14,9 +15,9 @@ var example = {
 console.log(example['pizza']);
 ```
 
-The above code will print the string `'yummy'` to the terminal.
+上記のコードは、 `'yummy'` とターミナルに出力します。
 
-Alternately, you can use **dot notation** to get identical results:
+別のやりかたとして、ドット記法を使って同じ結果を得ることもできます...
 
 ```js
 example.pizza;
@@ -24,13 +25,13 @@ example.pizza;
 example['pizza'];
 ```
 
-The two lines of code above will both return `yummy`.
+この二つの行は、両方とも `yummy` という値を返します。
 
-## The challenge:
+## やってみよう...
 
-Create a file named `object-properties.js`.
+`object-properties.js` というファイルを作成してください。
 
-In that file, define a variable named `food` like this:
+そのファイルの中で、 `food` という変数をこのように定義してください...
 
 ```js
 var food = {
@@ -38,9 +39,9 @@ var food = {
 };
 ```
 
-Use `console.log()` to print the `types` property of the `food` object to the terminal.
+`console.log()` を使って、 `food` オブジェクトの `types` プロパティをターミナルに出力してください。
 
-Check to see if your program is correct by running this command:
+次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
 `javascripting verify object-properties.js`
 
