@@ -1,10 +1,10 @@
 ---
 
-# FUNCTIONS
+# 関数
 
-A function is a block of code that takes input, processes that input, and then produces output.
+関数とは、コードのまとまりであり、それは入力を取り、それを処理し、結果を返します。
 
-Here is an example:
+例を挙げましょう...
 
 ```js
 function example (x) {
@@ -12,30 +12,30 @@ function example (x) {
 }
 ```
 
-We can **call** that function like this to get the number 10:
+この関数は、次のように**呼び出す**ことで、10という数を得られます...
 
 ```js
 example(5)
 ```
 
-The above example assumes that the `example` function will take a number as an argument –– as input –– and will return that number multiplied by 2.
+上記の例は、 `example` 関数が1つの数を引数として(つまり、入力として)取り、その数に2を掛けて返すと仮定しています。
 
-## The challenge:
+## やってみよう...
 
-Create a file named functions.js.
+function.jsというファイルを作成してください。
 
-In that file, define a function named `eat` that takes an argument named `food`  
-that is expected to be a string.
+そのファイルの中で、 `eat` という関数を定義します。それは、 `food` というひとつの引数を取り、
+その引数は文字列であることが期待されます。
 
-Inside the function return the `food` argument like this:
+関数内で、 `food` 引数を次のようにして返してください...
 
 ```js
 return food + ' tasted really good.';
 ```
 
-Inside of the parentheses of `console.log()`, call the `eat()` function with the string `bananas` as the argument.
+`console.log()` の括弧の中で、 `eat()` 関数を呼んで、 `bananas` という文字列を引数として与えてください。
 
-Check to see if your program is correct by running this command:
+次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
 `javascripting verify functions.js` 
 
