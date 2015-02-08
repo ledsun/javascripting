@@ -1,48 +1,48 @@
 ---
 
-# LOOPING THROUGH ARRAYS
+# 配列をループする
 
-For this challenge we will use a **for loop** to access and manipulate a list of values in an array.
+この課題では、**forループ**を使用して、配列の中の値にアクセスしたり操作したりします。
 
-Accessing array values can be done using an integer.
+配列の値へのアクセスには、整数を使用します。
 
-Each item in an array is identified by a number, starting at `0`.
+配列内のそれぞれの要素は、 `0` からはじまる数値で識別されます。
 
-So in this array `hi` is identified by the number `1`:
+ですので、この配列の `hi` は、 `1` という数値によって識別されます...
 
 ```js
 var greetings = ['hello', 'hi', 'good morning'];
 ```
 
-It can be accessed like this:
+この値には、次のようにしてアクセスします...
 
 ```js
 greetings[1];
 ```
 
-So inside a **for loop** we would use the `i` variable inside the square brackets instead of directly using an integer.
+**forループ**の中では、 `i` 変数をブラケットの中に入れて使います。直接整数を使うことはありません。
 
-## The challenge:
+## やってみよう...
 
-Create a file named `looping-through-arrays.js`.
+`looping-through-arrays.js` というファイルを作成してください。
 
-In that file, define a variable named `pets` that references this array:
+そのファイルの中で、 `pets` という名前の変数を定義して、この配列を参照させます...
 
 ```js
 ['cat', 'dog', 'rat'];
 ```
 
-Create a for loop that changes each string in the array so that they are plural.
+forループを作って、配列内の各文字列が複数形になるように変更します。
 
-You will use a statement like this inside the for loop:
+forループの中身はこのようになるでしょう...
 
 ```js
 pets[i] = pets[i] + 's';
 ```
 
-After the for loop, use `console.log()` to print the `pets` array to the terminal.
+forループが完了したら、 `console.log()` を使って `pets` 配列をターミナルに出力します。
 
-Check to see if your program is correct by running this command:
+次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう...
 
 `javascripting verify looping-through-arrays.js`
 
