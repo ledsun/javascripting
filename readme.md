@@ -46,6 +46,26 @@ gif内で使っているコマンドラインエディタは `nano` ([here are s
 
 [atom](http://atom.io) や [brackets](http://brackets.io/) は良い選択肢です。
 
+## 翻訳進捗
+
+- [x] INTRODUCTION
+- [x] VARIABLES
+- [x] STRINGS
+- [x] STRING LENGTH
+- [x] REVISING STRINGS
+- [ ] NUMBERS
+- [ ] ROUNDING NUMBERS
+- [ ] NUMBER TO STRING
+- [ ] IF STATEMENT
+- [ ] FOR LOOP
+- [ ] ARRAYS
+- [ ] ARRAY FILTERING
+- [ ] LOOPING THROUGH ARRAYS
+- [ ] OBJECTS
+- [x] OBJECT PROPERTIES
+- [x] FUNCTIONS
+- [x] FUNCTION ARGUMENTS
+
 ## 翻訳ルール
 - 「:」 は 「...」 を使って、続きがある感じを表現しています。
 - codeの前後に半角スペースを一つあけています。
