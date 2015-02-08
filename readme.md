@@ -1,71 +1,60 @@
-# JAVASCRIPTING
+# JAVASCRIPTING-JP
 
-> Learn JavaScript by adventuring around in the terminal.  
+これは[JAVASCRIPTING](https://github.com/sethvincent/javascripting)の日本語訳です。
 
-> _Looking for more interactive tutorials like this? Go to [nodeschool.io](http://nodeschool.io)._
+## Node.jsをインストールします
 
-## Get help
-Having issues with javascripting? Get help troubleshooting in the [nodeschool discussions repo](http://github.com/nodeschool/discussions), or on gitter:
+Node.jsはインストールされていますか？されていなければ、
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nodeschool/discussions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[nodejs.org/download](http://nodejs.org/download)
+からインストールしてください。
 
-## Install Node.js
+### `npm`を使って、`javascripting-jp`をインストールします
 
-Make sure Node.js is installed on your computer.
-
-Install it from [nodejs.org/download](http://nodejs.org/download)
-
-### Install `javascripting` with `npm`
-
-Open your terminal and run this command:
+ターミナルを開いて次のコマンドを実行します。
 
 ```
-npm install --global javascripting
+npm install --global javascripting-jp
 ```
 
-The `--global` option installs this module globally so that you can run it as a command in your terminal.
+`--global`オプションを使うと、このモジュールをグローバルにインストールします。
+ターミナルでコマンドとして使えるようになります。
 
-## Run the workshop
+## ワークショップを実行します
 
-Open your terminal and run the following command:
+ターミナルを開いて、次のコマンドを実行します...
 
 ```
-javascripting
+javascripting-jp
 ```
 
-You'll see the menu:
+メニューを表示します。
 
 ![javascripting screenshot](screenshot.png)
 
-Navigate the menu with the up & down arrow keys. 
+上下キーでメニューを操作できます。
 
-Choose a challenge by hitting enter.
+エンターキーを押すと課題が選べます。
 
-### Take a look at this gif that shows the first challenge:
+### 最初の課題のgif動画（未翻訳）
 
 ![first challenge](javascripting.gif)
 
-In the gif I'm using the command line editor `nano` ([here are some basic usage tips for nano](https://github.com/sethvincent/dev-envs-book/blob/master/chapters/05-editors.md#nano)).  
+gif内で使っているコマンドラインエディタは `nano` ([here are some basic usage tips for nano](https://github.com/sethvincent/dev-envs-book/blob/master/chapters/05-editors.md#nano))です。
 
-You can use any editor you like. 
+お好みのエディタを使ってください。
 
-[atom](http://atom.io) or [brackets](http://brackets.io/) are both good options.
+[atom](http://atom.io) や [brackets](http://brackets.io/) は良い選択肢です。
 
-## Need help with an exercise?
+## 翻訳ルール
+- 「:」 は 「...」 を使って、続きがある感じを表現しています。
+- codeの前後に半角スペースを一つあけています。
+- 見出し2の「課題」は「やってみよう」と訳しています。
+- 課題末尾の`Check to see if your program is correct by running this command:`は「次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。」で統一しています。
 
-Open an issue in the nodeschool/discussions repo: https://github.com/nodeschool/discussions
+## 翻訳参加者
 
-Include the name `javascripting` and the name of the challenge you're working on in the title of the issue.
-
-## TODOS:
-
-Add these challenges:
-
-- "ACCESSING ARRAY VALUES"
-- "OBJECT KEYS"
-- "FUNCTION RETURN VALUES"
-- "THIS"
-- "SCOPE"
+- [Taiju Muto](https://github.com/tai2)
 
 ## License
 
