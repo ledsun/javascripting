@@ -31,7 +31,6 @@ var pizza = {
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう...
 
-`javascripting verify objects.js`
-
+`javascripting-jp verify objects.js`
 
 ---
