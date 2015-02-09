@@ -20,7 +20,7 @@ var greetings = ['hello', 'hi', 'good morning'];
 greetings[1];
 ```
 
-**forループ**の中では、 `i` 変数をブラケットの中に入れて使います。直接整数を使うことはありません。
+**forループ**の中では、 `i` 変数を角括弧の中に入れて使います。直接整数を使うことはありません。
 
 ## やってみよう...
 
@@ -44,6 +44,6 @@ forループが完了したら、 `console.log()` を使って `pets` 配列を�
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう...
 
-`javascripting verify looping-through-arrays.js`
+`javascripting-jp verify looping-through-arrays.js`
 
 ---
