@@ -1,10 +1,10 @@
 ---
 
-# OBJECTS
+# オブジェクト
 
-Objects are lists of values similar to arrays, except values are identified by keys instead of integers.
+オブジェクトは、配列に似た値のリストですが、値が整数ではなくキーで識別されるところが違います。
 
-Here is an example:
+例を挙げましょう...
 
 ```js
 var foodPreferences = {
@@ -13,11 +13,11 @@ var foodPreferences = {
 }
 ```
 
-## The challenge:
+## やってみよう...
 
-Create a file named `objects.js`.
+`objects.js` というファイルを作成してください。
 
-In that file, define a variable named `pizza` like this:
+そのファイルの中で、 `pizza` という変数を次のようにして定義してください...
 
 ```js
 var pizza = {
@@ -27,11 +27,10 @@ var pizza = {
 }
 ```
 
-Use `console.log()` to print the `pizza` object to the terminal.
+`console.log()` を使用して、 `pizza` オブジェクトをターミナルに出力してください。
 
-Check to see if your program is correct by running this command:
+次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう...
 
-`javascripting verify objects.js`
-
+`javascripting-jp verify objects.js`
 
 ---
