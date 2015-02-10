@@ -1,22 +1,22 @@
 ---
 
-# ARRAYS
+# 配列
 
-An array is a list of values. Here's an example:
+配列は、値のリストです。例としてはこのようになります...
 
 ```js
 var pets = ['cat', 'dog', 'rat'];
 ```
 
-### The challenge:
+## やってみよう...
 
-Create a file named `arrays.js`.
+`arrays.js` というファイルを作成してください。
 
-In that file define a variable named `pizzaToppings` that references an array that contains three strings in this order: `tomato sauce, cheese, pepperoni`.
+そのファイルの中で、 `pizzaToppings` という変数を定義してください。その変数に、3つの文字列変数を次の順番通りに含む配列を代入します... `tomato sauce, cheese, pepperoni`
 
-Use `console.log()` to print the `pizzaToppings` array to the terminal.
+`console.log()` を使って、 `pizzaToppings` 配列をターミナルに出力してください。
 
-Check to see if your program is correct by running this command:
+次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
 `javascripting verify arrays.js`
 
