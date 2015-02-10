@@ -1,11 +1,11 @@
 ---
 
-# THAT NUMBER IS ROUNDED
+# 丸く収まりました
 
-Yep, you just rounded the number `1.5` to `2`. Good job.
+良い仕事ですね。`1.5` が `2` に見事に丸まっています。
 
-In the next challenge we will turn a number into a string.
+次の課題では、数値を文字列に変換します。
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで`javascripting-jp`コマンドを実行します。次の課題を選択しましょう。
 
 ---

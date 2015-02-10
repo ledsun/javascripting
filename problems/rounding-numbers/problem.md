@@ -1,33 +1,33 @@
 ---
 
-# ROUNDING NUMBERS
+# 数値丸め
 
-We can do basic math using familiar operators like `+`, `-`, `*`, `/`, and `%`.
+基本的な数値処理には、`+`、 `-`、 `*`、 `/`、 `%` といった、おなじみの演算子を使います。
 
-For more complex math, we can use the `Math` object.
+より複雑な数値処理をするときは、 `Math` オブジェクトを使います。
 
-In this challenge we'll use the `Math` object to round numbers.
+この課題では、 `Math` を使って数値を丸め（四捨五入し）ます。
 
-## The challenge:
+## やってみよう...
 
-Create a file named rounding-numbers.js.
+rounding-numbers.jsファイルを作りましょう。
 
-In that file define a variable named `roundUp` that references the float `1.5`.
+ファイルの中で、少数 `1.5` を表す、変数 `roundUp` を定義しましょう。
 
-We will use the `Math.round()` method to round the number up.
+`Math.round()` メソッドを使って数値を切り上げましょう。
 
-An example of using `Math.round()`:
+`Math.round()` メソッドの使用例です...
 
 ```js
 Math.round(0.5);
 ```
 
-Define a second variable named `rounded` that references the output of the `Math.round()` method, passing in the `roundUp` variable as the argument.
+第二の変数 `rounded` を定義します。この変数は `Math.round()` メソッドの結果を表します。引数には `roundUp` 変数を指定します。
 
-Use `console.log()` to print that number to the terminal.
+`console.log` を使い、数値をターミナルに表示しましょう。
 
-Check to see if your program is correct by running this command:
+次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify rounding-numbers.js`
+`javascripting-jp verify rounding-numbers.js`
 
 ---
