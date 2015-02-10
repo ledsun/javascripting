@@ -24,13 +24,13 @@ var filtered = pets.filter(function (pet) {
 
 `array-filtering.js` というファイルを作成してください。
 
-そのファイルの中で、 `numbers` という名前の変数を定義して、この配列を参照させます...
+ファイルの中で、 次の配列を表す、変数 `example` を定義しましょう。
 
 ```js
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 ```
 
-同様に、 `filtered` という名前の変数を定義して、 `numbers.filter()` の実行結果を参照させます。
+同様に、 `numbers.filter()` の実行結果を表す、変数 `filtered` を定義しましょう。
 
 `.filter()` メソッドに渡す関数は、このような感じになるでしょう...
 
