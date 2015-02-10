@@ -1,11 +1,11 @@
 ---
 
-# SUCCESS! LOTS OF PETS!
+# パチパチ! ペット盛り沢山!
 
-Now all the items in that `pets` array are plural!
+`pets` 配列内のすべての要素が複数形になっています!
 
-In the next challenge we will move from arrays to working with **objects**.
+次の課題では、配列を離れて**オブジェクト**へと移ります。
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで `javascripting-jp` コマンドを実行します。次の課題を選択しましょう。
 
 ---
