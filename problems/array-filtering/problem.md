@@ -1,14 +1,14 @@
 ---
 
-# ARRAY FILTERING
+# 配列のフィルター
 
-There are many ways to manipulate arrays.
+配列の操作方法にはさまざまなものがあります。
 
-One common task is filtering arrays to only contain certain values.
+よくやる処理として、配列にフィルターをかけて、ある値だけ取り出すというのがあります。
 
-For this we can use the `.filter()` method.
+フィルターをかけるためには、 `.filter()` メソッドを使います。
 
-Here is an example:
+例を挙げましょう...
 
 ```js
 var pets = ['cat', 'dog', 'elephant'];
@@ -18,21 +18,21 @@ var filtered = pets.filter(function (pet) {
 });
 ```
 
-The `filtered` variable will now only contain `cat` and `dog`.
+`フィルターされた` その中には `cat` と `dog` だけが残ります。
 
-## The challenge:
+## やってみよう...
 
-Create a file named `array-filtering.js`.
+`array-filtering.js` というファイルを作成してください。
 
-In that file, define a variable named `numbers` that references this array:
+ファイルの中で、 次の配列を表す、変数 `example` を定義しましょう。
 
 ```js
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 ```
 
-Like above, define a variable named `filtered` that references the result of `numbers.filter()`.
+同様に、 `numbers.filter()` の実行結果を表す、変数 `filtered` を定義しましょう。
 
-The function that you pass to the `.filter()` method will look something like this:
+`.filter()` メソッドに渡す関数は、このような感じになるでしょう...
 
 ```js
 function evenNumbers (number) {
@@ -40,10 +40,10 @@ function evenNumbers (number) {
 }
 ```
 
-Use `console.log()` to print the `filtered` array to the terminal.
+`console.log()` を使って、 `フィルターされた` 配列をターミナルに出力してください。
 
-Check to see if your program is correct by running this command:
+次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify array-filtering.js`
+`javascripting-jp verify array-filtering.js`
 
 ---

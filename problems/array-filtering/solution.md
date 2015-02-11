@@ -1,11 +1,11 @@
 ---
 
-# FILTERED!
+# フィルターされました!
 
-Good job filtering that array.
+いいですね。フィルターができましたよ。
 
-In the next challenge we will work on an example of looping through arrays.
+次の課題では、配列のループの例に取り組みます。
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで `javascripting-jp` コマンドを実行します。次の課題を選択しましょう。
 
 ---
