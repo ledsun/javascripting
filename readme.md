@@ -59,9 +59,9 @@ gif内で使っているコマンドラインエディタは `nano` ([here are s
 - [ ] IF STATEMENT
 - [ ] FOR LOOP
 - [ ] ARRAYS
-- [ ] ARRAY FILTERING
-- [ ] LOOPING THROUGH ARRAYS
-- [ ] OBJECTS
+- [x] ARRAY FILTERING
+- [x] LOOPING THROUGH ARRAYS
+- [x] OBJECTS
 - [x] OBJECT PROPERTIES
 - [x] FUNCTIONS
 - [x] FUNCTION ARGUMENTS
