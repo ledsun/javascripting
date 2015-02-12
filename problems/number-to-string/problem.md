@@ -1,28 +1,28 @@
 ---
 
-# NUMBER TO STRING
+# 数値を文字列に
 
-Sometimes you will need to turn a number into a string.
+数値を文字列に変換したいことがあります。
 
-In those instances you will use the `.toString()` method. Here's an example:
+そういう時は `toString()` メソッドを使います。たとえば...
 
 ```js
 var n = 256;
 n = n.toString();
 ```
 
-## The challenge
+## やってみよう
 
-Create a file named `number-to-string.js`.
+`number-to-string.js` ファイルを作りましょう。
 
-In that file define a variable named `n` that references the number `128`;
+ファイルの中で、数値 `128` を表す変数 `n`を定義しましょう。
 
-Call the `.toString()` method on the `n` variable.
+変数 `n` の `toString()` メソッドを呼びましょう。
 
-Use `console.log()` to print the results of the `.toString()` method to the terminal.
+`console.log()` を使い、`toString()` メソッドの結果をターミナルに表示しましょう。
 
-Check to see if your program is correct by running this command:
+次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify number-to-string.js`
+`javascripting-jp verify number-to-string.js`
 
 ---

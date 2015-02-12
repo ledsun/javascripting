@@ -1,11 +1,11 @@
 ---
 
-# THAT NUMBER IS NOW A STRING!
+# 見て、数値が文字列になったわ！
 
-Excellent. Good work converting that number into a string.
+よくできました。数値を文字列に変換する良い動きです。
 
-In the next challenge we will take a look at **if statements**.
+次の課題では、**if文**を見てみましょう。
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで`javascripting-jp`コマンドを実行します。次の課題を選択しましょう。
 
 ---
