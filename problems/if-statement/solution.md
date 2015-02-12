@@ -1,11 +1,11 @@
 ---
 
-# CONDITIONAL MASTER
+# 達人の条件クリア！
 
-You got it! The string `orange` has more than five characters.
+やったね！ `orange` の文字数は5を超えています。
 
-Get ready to take on **for loops** next!
+次は**for loop**です。準備はいいですか？
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで`javascripting-jp`コマンドを実行します。次の課題を選択しましょう。
 
 ---
