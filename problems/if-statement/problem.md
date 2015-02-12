@@ -1,10 +1,10 @@
 ---
 
-# IF STATEMENT
+# IF文
 
-Conditional statements are used to alter the control flow of a program, based on a specified boolean condition.
+条件文を使って次に実行する文を変更し、プログラムの流れを変えます。条件は真理値で指定します。
 
-A conditional statement looks like this:
+たとえば...
 
 ```js
 if (n > 1) {
@@ -14,23 +14,23 @@ if (n > 1) {
 }
 ```
 
-Inside parentheses you must enter a logic statement, meaning that the result of the statement is either true or false. 
+カッコの間に論理式を指定します。論理式の結果は真か偽になる必要があります。
 
-The else block is optional and contains the code that will be executed if the statement is false.
+`else` ブロックはつけても、つけなくても構いません。つけた場合は、論理式の結果が偽の時に実行されます。
 
-## The challenge
+## やってみよう
 
-Create a file named `if-statement.js`.
+`if-statement.js` ファイルを作りましょう。
 
-In that file, declare a variable named `fruit`.
+ファイルの中で、変数 `fruit` を定義しましょう。
 
-Make the `fruit` variable reference the value **orange** with the type of **String**.
+変数 `fruit` は**文字列型**の**orange**を表します。
 
-Then use `console.log()` to print "**The fruit name has more than five characters."** if the length of the value of `fruit` is greater than five.
-Otherwise, print "**The fruit name has five characters or less.**"
+`fruit` の文字数が5より大きかったら、console.log() を使い、"**The fruit name has more than five characters.**"をターミナルに表示しましょう。
+そうでなければ"**The fruit name has five characters or less.**"を表示しましょう。
 
-Check to see if your program is correct by running this command:
+次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify if-statement.js`
+`javascripting-jp verify if-statement.js`
 
 ---
