@@ -1,11 +1,11 @@
 ---
 
-# YAY, A PIZZA ARRAY!
+# ヘイ、ピザお待ちぃ!
 
-You successfully created an array!
+配列の作成ができました!
 
-In the next challenge we will explore filtering arrays.
+次の課題では、配列のフィルターについて探求します。
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで `javascripting-jp` コマンドを実行します。次の課題を選択しましょう。
 
 ---
