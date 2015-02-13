@@ -1,11 +1,12 @@
 ---
 
-# THE TOTAL IS 45
+# 1から9まで足したら45
 
-That is a basic introduction to for loops, which are handy in a number of situations, particularly in combination with other data types like strings and arrays.
+for ループの基本的な使い方がわかりました。for ループはいろいろな場面で便利です。
+特に文字列や配列のようなデータ型と組み合わせるのが最高です。
 
-In the next challenge we'll start working with **arrays**.
+次の課題では**配列**に取り組みましょう。
 
-Run `javascripting-jp` in the console to choose the next challenge.
+コンソールで`javascripting-jp`コマンドを実行します。次の課題を選択しましょう。
 
 ---

@@ -57,7 +57,7 @@ gif内で使っているコマンドラインエディタは `nano` ([here are s
 - [x] ROUNDING NUMBERS
 - [x] NUMBER TO STRING
 - [x] IF STATEMENT
-- [ ] FOR LOOP
+- [x] FOR LOOP
 - [x] ARRAYS
 - [x] ARRAY FILTERING
 - [x] LOOPING THROUGH ARRAYS
