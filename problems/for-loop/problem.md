@@ -38,6 +38,6 @@ After the for loop, use `console.log()` to print the `total` variable to the ter
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify for-loop.js`
+`javascripting-jp verify for-loop.js`
 
 ---
