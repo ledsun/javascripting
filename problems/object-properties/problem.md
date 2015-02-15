@@ -43,6 +43,6 @@ var food = {
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify object-properties.js`
+`javascripting-jp verify object-properties.js`
 
 ---

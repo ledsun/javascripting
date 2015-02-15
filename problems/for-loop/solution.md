@@ -6,6 +6,6 @@ That is a basic introduction to for loops, which are handy in a number of situat
 
 In the next challenge we'll start working with **arrays**.
 
-Run `javascripting` in the console to choose the next challenge.
+Run `javascripting-jp` in the console to choose the next challenge.
 
 ---
