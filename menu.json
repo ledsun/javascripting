@@ -6,7 +6,7 @@
   "文字列を変更(REVISING STRINGS)",
   "数値(NUMBERS)",
   "数値を文字列に(NUMBER TO STRING)",
-  "IF文(IF STATEMENT)",
+  "if文(IF STATEMENT)",
   "forループ(FOR LOOP)",
   "配列(ARRAYS)",
   "配列のフィルター(ARRAY FILTERING)",

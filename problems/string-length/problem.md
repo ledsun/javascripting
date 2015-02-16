@@ -1,6 +1,6 @@
 ---
 
-# STRING LENGTH
+# 文字列の長さ
 
 ある文字列の文字数を知りたいことがあります。
 
@@ -17,7 +17,7 @@ example.length
 
 ## やってみよう
 
-string-length.jsファイルを作りましょう。
+`string-length.js` ファイルを作りましょう。
 
 ファイルの中で、変数 `example` を作りましょう。
 

@@ -3,17 +3,17 @@
 
 このワークショップで使うディレクトリを作りましょう。
 
-次のコマンドを実行して、`javascripting-jp`ディレクトリを作ります。
+次のコマンドを実行して、`javascripting-jp` ディレクトリを作ります。
 
 `mkdir javascripting-jp`
 
-`javascripting-jp`ディレクトリに移動しましょう。
+`javascripting-jp` ディレクトリに移動しましょう。
 
 `cd javascripting-jp`
 
-次のコマンドで`introduction.js`ファイルを作成します。
+次のコマンドで `introduction.js` ファイルを作成します。
 
-`touch introduction.js` もし、Windowsを使っているのであれば `type NUL > introduction.js`
+`touch introduction.js` (Windowsを使っているのであれば `type NUL > introduction.js`)
 
 お好みのエディタでファイルを開きます。次の文を書き足しましょう。
 
