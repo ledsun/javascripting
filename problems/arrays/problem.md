@@ -2,19 +2,22 @@
 
 # 配列
 
-配列は、値のリストです。このような例になります...
+配列は、値のリストです。たとえば、こう...
 
 ```js
 var pets = ['cat', 'dog', 'rat'];
 ```
 
-## やってみよう...
+## やってみよう
 
-`arrays.js` というファイルを作成してください。
+`arrays.js` ファイルを作りましょう。
+
+ファイルの中で、配列を表す変数 `pizzaToppings` 定義してください。配列は次の3つの文字列変数を順番通りに含みます...
 
-そのファイルの中で、 `pizzaToppings` という変数を定義してください。その変数に、3つの文字列変数を次の順番通りに含む配列を代入します... `tomato sauce, cheese, pepperoni`
+`tomato sauce, cheese, pepperoni`
 
-`console.log()` を使って、 `pizzaToppings` 配列をターミナルに出力してください。
+`console.log()` を使って、配列 `pizzaToppings` をターミナルに表示しましょう
+。
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
