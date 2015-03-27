@@ -27,7 +27,7 @@ greetings[1];
 `looping-through-arrays.js` ファイルを作りましょう。
 
 
-ファイルの中で、次の配列を表す、変数 `pets` 定義しましょう。
+ファイルの中で、次の配列を表す、変数 `pets` を定義しましょう。
 
 ```js
 ['cat', 'dog', 'rat'];
