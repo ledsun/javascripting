@@ -5,6 +5,7 @@
   "文字列の長さ(STRING LENGTH)",
   "文字列を変更(REVISING STRINGS)",
   "数値(NUMBERS)",
+  "数値丸め(ROUNDING NUMBERS)",
   "数値を文字列に(NUMBER TO STRING)",
   "if文(IF STATEMENT)",
   "forループ(FOR LOOP)",
