@@ -1,11 +1,11 @@
 ---
 
-# SECOND ELEMENT OF ARRAY PRINTED!
+# 配列の2番目の要素が出力されました！
 
-Good job accessing that element of array.
+いいですね。配列の要素にアクセスできました。
 
 次の課題では、配列のループの例に取り組みます。
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで `javascripting-jp` コマンドを実行します。次の課題を選択しましょう。
 
 ---

@@ -1,13 +1,12 @@
 ---
 
-# ACCESSING ARRAY VALUES
+# 配列の値にアクセスする
 
-Array elements can be accessed through index number.
+配列の要素は添え字を使ってアクセスできます。
 
-Index number starts from zero to array's property length minus one.
+添え字は0から配列の長さ - 1 までの数です。
 
-Here is an example:
-
+以下に例を示します...
 
 ```js
 	var pets = ['cat', 'dog', 'rat'];
@@ -15,37 +14,38 @@ Here is an example:
 	console.log(pets[0]);
 ```
 
-The above code will print the first element of `pets` array - string `cat`.
+上記のコードは配列 `pets` の最初の要素 ー 文字列 `cat` を表示します。
 
-Array elements must be accessed through only using bracket notation.
+配列の要素は角括弧表記を使うことでしかアクセスできません。
 
-Dot notation is invalid.
+ドット表記は使用できません。
 
-Valid notation:
+有効な表記
 
 ```js
 	console.log(pets[0]);
 ```
 
-Invalid notation:
+無効な表記
+
 ```
 	console.log(pets.1);
 ```
 
-## The challenge:
+## やってみよう:
 
-Create a file named `accessing-array-values.js`.
+`accessing-array-values.js` ファイルを作りましょう。
 
-In that file, define array `food` :
+ファイルの中で、次の配列 `food` を定義します。
 ```js 
 var food = ['apple', 'pizza', 'pear'];
 ```
 
 
-Use `console.log()` to print the `second value of array to the terminal.
+`console.log()` を使って、配列の `2` 番目の値をターミナルに出力してください。
 
-Check to see if your program is correct by running this command:
+次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify accessing-array-values.js`
+`javascripting-jp verify accessing-array-values.js`
 
 ---
