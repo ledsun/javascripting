@@ -4,7 +4,7 @@
 
 いいですね。フィルターができましたよ。
 
-In the next challenge we will work on an example of accessing array values.
+次の課題では、配列の値にアクセスする例に取り組みます。
 
 コンソールで `javascripting-jp` コマンドを実行します。次の課題を選択しましょう。
 
