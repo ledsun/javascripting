@@ -75,6 +75,7 @@ gif内で使っているコマンドラインエディタは `nano` ([here are s
 ## 翻訳参加者
 
 - [Taiju Muto](https://github.com/tai2)
+- [Kohei TAKATA](https://github.com/tako-black)
 
 ## License
 
