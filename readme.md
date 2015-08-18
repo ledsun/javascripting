@@ -1,5 +1,8 @@
 # JAVASCRIPTING-JP
 
+**このリポジトリの翻訳は本家にマージ済です。
+JAVASCRIPTINGは多言語化対応しています。**
+
 これは[JAVASCRIPTING](https://github.com/sethvincent/javascripting)の日本語訳です。
 
 ## Node.jsをインストールします
